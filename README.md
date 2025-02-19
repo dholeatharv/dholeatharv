@@ -52,6 +52,6 @@ He/Him
 ---
 
 ## ⚡ Fun Fact  
-I once optimized a database query so well that it cut response time by 30%—and celebrated with an extra cup of coffee!  
+I once wrote a Python script to automate my coffee brewing schedule—because who has time to wait for caffeine? 
 
 ---
