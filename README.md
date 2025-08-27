@@ -40,8 +40,8 @@ Check out my [resume](#) or projects below for more details!
 ---
 
 ## 📫 How to Reach Me  
-- **Email**: [atharv.dhole@hotmail.com](mailto:atharv.dhole@hotmail.com)  
-- **LinkedIn**: [linkedin.com/in/atharvdhole](https://www.linkedin.com/in/atharvdhole) *(replace with actual URL if available)*  
+- **Email**: [atharvdhole1@gmail.com](mailto:atharvdhole1@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/atharvdhole](https://www.linkedin.com/in/atharvdhole)  
 - **Phone**: +1 (817)-791-3690  
 
 ---
