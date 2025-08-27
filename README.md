@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a passionate **Computer Science graduate student** a
 ---
 
 ## 👀 I’m Interested In  
-- Full-stack development (React, Node.js, ASP.NET, and more)  
+- Full-stack development (React, Node.js, Springboot, and more)  
 - AI-powered applications (like my Healthcare Bot project)  
 - Cloud technologies (AWS, Firebase, Docker) and scalable systems  
 - Machine learning for real-world problem-solving  
