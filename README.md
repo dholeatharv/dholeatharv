@@ -1,57 +1,101 @@
-# 👋 Hi, I’m Atharv Dhole  
-Welcome to my GitHub! I’m a passionate **Computer Science graduate student** at the University of Texas at Arlington, with a love for crafting robust full-stack applications and innovative AI/ML solutions.
+Hi, I’m Atharv Dhole  
+
+Welcome to my GitHub. I’m a Software Developer and Computer Science graduate student at the University of Texas at Arlington, focused on building scalable full-stack applications and secure, high-performance backend systems.
 
 ---
 
-## 👀 I’m Interested In  
-- Full-stack development (React, Node.js, Springboot, and more)  
-- AI-powered applications (like my Healthcare Bot project)  
-- Cloud technologies (AWS, Firebase, Docker) and scalable systems  
-- Machine learning for real-world problem-solving  
+## Areas of Interest
+- Full-stack development (React, Node.js, Spring Boot, Microservices)
+- Backend engineering and REST API design
+- Cloud-native applications (AWS, Docker, Kubernetes)
+- Secure and scalable system design
+- Database optimization and performance engineering
 
 ---
 
-## 🌱 I’m Currently Learning  
-- Advanced cloud architecture with AWS (S3, Lambda, EC2) and Firebase  
-- Go programming for high-performance full-stack systems  
-- Cutting-edge AI/ML techniques to enhance application intelligence  
+## Currently Learning
+- Advanced cloud architecture on AWS (EC2, S3, containerized deployments)
+- Kubernetes for scalable microservices
+- System design and backend performance optimization
 
 ---
 
-## 💻 What I Bring to the Table  
-- **Languages**: C#, C++, Java, JavaScript, Go, Python, HTML, CSS  
-- **Databases**: SQL, PostgreSQL, MySQL, MongoDB, Firebase  
-- **Frameworks & Tools**: React, Express, Node.js, ASP.NET, Firebase, Docker, Git, REST APIs  
-- **Experience**:  
-  - Built a **web messaging app** with React, Redux, and Node.js, supporting 500+ users with 99% uptime  
-  - Developed an **AI Healthcare Bot** with 95% query accuracy and location-based services  
-  - Optimized full-stack systems for **50% HR efficiency gains** and **30% faster database queries**  
+## Technical Skills
 
-Check out my [resume](#) or projects below for more details!  
+**Programming Languages**  
+C++, Java, JavaScript, TypeScript, Python  
 
----
+**Databases**  
+SQL, PostgreSQL, MySQL Server, MongoDB  
 
-## 💞️ I’m Looking to Collaborate On  
-- Open-source projects in full-stack development or AI/ML  
-- Tools that leverage AI to solve real-world challenges  
-- **Summer 2025 internships** in software development, full-stack engineering, or AI/ML—eager to build and learn!  
-- Creative ideas—let’s design and develop something impactful!  
+**Full-Stack Technologies**  
+HTML, CSS, React, Express, Node.js, Spring, Spring Boot, Microservices  
+
+**Tools and Cloud Platforms**  
+AWS, Docker, Kubernetes, Git  
 
 ---
 
-## 📫 How to Reach Me  
-- **Email**: [atharvdhole1@gmail.com](mailto:atharvdhole1@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/atharvdhole](https://www.linkedin.com/in/atharvdhole)  
-- **Phone**: +1 (817)-791-3690  
+## Professional Experience
+
+### Software Developer Intern — Genhybrid Solutions  
+March 2024 – August 2024  
+- Built a secure Spring Boot application with role-based access control (RBAC), achieving 100% compliance with data confidentiality standards  
+- Designed and implemented a leave management system, improving HR efficiency by 50%  
+- Integrated new modules with existing systems, reducing employee query resolution time by 40%  
+- Optimized backend database queries, significantly improving system response time  
+
+### Software Developer — Cognizant  
+March 2023 – February 2024  
+- Contributed to Projectify, a project management platform used by 50+ teams  
+- Automated task assignment and project scheduling, reducing manual effort by 40%  
+- Improved database query efficiency, decreasing data retrieval time by 20%  
+
+### Software Developer Intern — Oasis Infobyte  
+March 2022 – April 2022  
+- Developed reusable React components, reducing development cycle time by 25%  
+- Built scalable Node.js APIs to support seamless frontend integration  
 
 ---
 
-## 😄 Pronouns  
-He/Him  
+## Featured Projects
+
+### End-to-End Encrypted (E2EE) Web Messaging Application
+- Developed a secure messaging platform using React, Redux, and Node.js  
+- Supported 500+ users with 99% uptime under high load  
+- Implemented EX3DH and Double Ratchet encryption with 256-bit security  
+- Reduced security incidents by 80% through robust cryptographic design  
+
+### ABIERTTO E-Commerce Platform
+- Built a full-stack e-commerce system using PHP, React, and MySQL  
+- Automated inventory management, increasing sales by 45%  
+- Reduced order fulfillment time by 20%  
 
 ---
 
-## ⚡ Fun Fact  
-I once wrote a Python script to automate my coffee brewing schedule—because who has time to wait for caffeine? 
+## Leadership and Activities
+- Vice President, IMS – UTA (2023–2024)  
+  Managed a $12,000 fund, optimized resources for 10+ student ventures, and increased competition prize pools by 20%  
+
+- Executive Member, HackUTA Club (2022–2023)  
+  Organized workshops on machine learning and data visualization for 150+ participants  
 
 ---
+
+## Open to Collaborate On
+- Full-stack or backend-focused open-source projects  
+- Secure systems and cloud-native applications  
+- Software Engineering internships and full-time roles  
+
+---
+
+## Contact
+Email: atharvdhole1@gmail.com  
+LinkedIn: https://www.linkedin.com/in/atharvdhole  
+Phone: +1 (817)-791-3690  
+
+---
+
+Pronouns: He / Him  
+
+Fun Fact: I enjoy optimizing backend systems almost as much as optimizing my daily workflow.
