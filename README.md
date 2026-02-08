@@ -44,28 +44,6 @@ Git, Swagger, Postman
 
 ---
 
-## 💼 Professional Experience
-
-### Software Developer Intern — Genhybrid Solutions  
-*March 2024 – August 2024*  
-- Built a secure Spring Boot application with role-based access control (RBAC), achieving 100% compliance with data confidentiality standards  
-- Designed and implemented a leave management system, improving HR efficiency by 50%  
-- Integrated new modules with existing enterprise systems, reducing employee query resolution time by 40%  
-- Optimized backend database queries, significantly improving system response time  
-
-### Software Developer — Cognizant  
-*March 2023 – February 2024*  
-- Contributed to **Projectify**, a project management platform used by 50+ teams  
-- Automated task assignment and project scheduling workflows, reducing manual effort by 40%  
-- Improved database query efficiency, decreasing data retrieval time by 20%  
-
-### Software Developer Intern — Oasis Infobyte  
-*March 2022 – April 2022*  
-- Developed reusable React components, reducing development cycle time by 25%  
-- Built scalable Node.js REST APIs to support seamless frontend integration  
-
----
-
 ## 🧠 Featured Projects
 
 ### AI-Powered Resume–Job Matching Platform
